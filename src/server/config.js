@@ -1,4 +1,4 @@
 module.exports = {
     urlApi: "http://localhost:3000/laws",
-    mongoURI: "mongodb://127.0.0.1:27017/radiumlaw"
+    mongoURI: "mongodb://54.185.130.214:27017/radiumlaw"
 }
