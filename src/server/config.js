@@ -1,4 +1,4 @@
 module.exports = {
     urlApi: "http://localhost:3000/laws",
-    mongoURI: "mongodb://admin:m4Mz4LAgmBKQ9tzTjCkzpQzP@ec2-54-185-130-214.us-west-2.compute.amazonaws.com:27017/radiumlaw"
+    mongoURI: "mongodb://127.0.0.1:27017/?readPreference=primary&appname=MongoDB%20Compass&ssl=false"
 }
