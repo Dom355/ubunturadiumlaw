@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="775px" height="551px" viewBox="0 0 775 551" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Desktop-Sharing</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="17" width="613" height="172" rx="2"></rect>
+        <filter x="-1.1%" y="-2.9%" width="102.3%" height="108.1%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M17.5,2.75 C17.9832492,2.75 18.375,3.16040565 18.375,3.66666667 L18.375,3.66666667 L18.375,10.0833333 C18.375,12.6146384 16.4162458,14.6666667 14,14.6666667 L14,14.6666667 L5.611,14.666 L8.49371843,17.6851521 C8.80695146,18.013301 8.83305421,18.528345 8.57202669,18.8876431 L8.49371843,18.9815145 C8.15200968,19.3394952 7.59799032,19.3394952 7.25628157,18.9815145 L7.25628157,18.9815145 L2.88128157,14.3981812 C2.87582877,14.3924688 2.87046298,14.3866997 2.86518421,14.3808757 C2.85149473,14.3657887 2.83770113,14.3494731 2.8244687,14.3326548 C2.81212691,14.317025 2.80077721,14.3016136 2.78995957,14.2859243 C2.78020799,14.2716631 2.77057465,14.256796 2.76135543,14.2416256 C2.75068701,14.2242058 2.74086427,14.2067588 2.73163995,14.1890605 C2.66370121,14.0587756 2.625,13.9091226 2.625,13.75 C2.625,13.5908774 2.66370121,13.4412244 2.73178057,13.3108081 C2.74212486,13.2908226 2.75338293,13.2710303 2.76541417,13.2516105 C2.77350746,13.2386993 2.78173013,13.2261295 2.79023878,13.2137903 C2.81706087,13.1747696 2.84750153,13.1372074 2.88128157,13.1018188 L2.8244687,13.1673452 C2.83770113,13.1505269 2.85149473,13.1342113 2.86581948,13.1184298 L2.88128157,13.1018188 L7.25628157,8.51848545 C7.59799032,8.16050485 8.15200968,8.16050485 8.49371843,8.51848545 C8.83542719,8.87646605 8.83542719,9.45686728 8.49371843,9.81484788 L8.49371843,9.81484788 L5.612,12.833 L14,12.8333333 C15.393988,12.8333333 16.5341899,11.6950041 16.6198356,10.2572477 L16.625,10.0833333 L16.625,3.66666667 C16.625,3.16040565 17.0167508,2.75 17.5,2.75 Z" id="path-3"></path>
+        <path d="M22.5,3.375 C23.1213203,3.375 23.625,3.87867966 23.625,4.5 L23.625,4.5 L23.625,12.375 C23.625,15.4816017 21.1066017,18 18,18 L18,18 L7.215,18 L10.9204951,21.7045049 C11.3284535,22.1124633 11.3575934,22.7557894 11.0079148,23.1973717 L10.9204951,23.2954951 C10.4811553,23.734835 9.7688447,23.734835 9.32950487,23.2954951 L9.32950487,23.2954951 L3.70450487,17.6704951 C3.69874094,17.6647312 3.69305262,17.6589203 3.68743993,17.6530636 C3.6698762,17.6347379 3.65259046,17.6154225 3.63597919,17.5955246 C3.62502283,17.5824696 3.61482472,17.569698 3.60494496,17.5567611 C3.59142383,17.5389319 3.57812337,17.5203726 3.56538508,17.5014042 C3.55466044,17.4855926 3.54482265,17.4701141 3.5354,17.4544557 C3.52454839,17.4362747 3.51371564,17.4170591 3.5034416,17.397504 C3.49416668,17.3799665 3.4856215,17.3625731 3.47755248,17.3450146 C3.46953997,17.3275239 3.46201901,17.3100233 3.45493582,17.2923004 C3.37111563,17.0820817 3.35320948,16.851653 3.40124099,16.6327856 C3.40994221,16.5926939 3.42083507,16.5535447 3.43372626,16.515315 C3.44033958,16.4958481 3.44738009,16.4766771 3.45495944,16.4576711 C3.46201901,16.4399767 3.46953997,16.4224761 3.47748532,16.4052112 C3.48577781,16.3870868 3.49449793,16.3693597 3.50371284,16.3518247 C3.51408462,16.3322868 3.52474195,16.3134043 3.53591863,16.2948703 C3.54482265,16.2798859 3.55466044,16.2644074 3.56491338,16.2491248 C3.57812337,16.2296274 3.59142383,16.2110681 3.6052626,16.1929418 C3.63515489,16.1536811 3.66834152,16.1156682 3.70450487,16.0795049 L3.63597919,16.1544754 C3.65259046,16.1345775 3.6698762,16.1152621 3.68780127,16.0965645 L3.70450487,16.0795049 L9.32950487,10.4545049 C9.7688447,10.015165 10.4811553,10.015165 10.9204951,10.4545049 C11.359835,10.8938447 11.359835,11.6061553 10.9204951,12.0454951 L10.9204951,12.0454951 L7.215,15.75 L18,15.75 C19.801829,15.75 21.2738719,14.338018 21.3700061,12.5601768 L21.375,12.375 L21.375,4.5 C21.375,3.87867966 21.8786797,3.375 22.5,3.375 Z" id="path-5"></path>
+        <rect id="path-7" x="0" y="0" width="612" height="150"></rect>
+        <filter x="-1.1%" y="-3.3%" width="102.3%" height="109.3%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M6.47186068,10.9721491 C7.85646684,9.58704082 9.77440289,8.87159465 11.7278834,9.01149908 C13.6813638,9.15140352 15.4777708,10.1328637 16.6508607,11.7011491 C17.0230183,12.1986807 16.9213825,12.9037031 16.4238509,13.2758607 C15.9263193,13.6480183 15.2212969,13.5463825 14.8491393,13.0488509 C14.0670794,12.0033273 12.8694748,11.3490205 11.5671544,11.2557509 C10.2648341,11.1624813 8.9862101,11.6394454 8.06299513,12.5629951 L8.06299513,12.5629951 L4.70169923,15.9240508 C2.99632429,17.6897558 3.02071355,20.4964323 4.75651564,22.2322344 C6.49231773,23.9680365 9.29899424,23.9924257 11.0507549,22.3007549 L11.0507549,22.3007549 L12.9745049,20.3770049 C13.4138447,19.937665 14.1261553,19.937665 14.5654951,20.3770049 C15.004835,20.8163447 15.004835,21.5286553 14.5654951,21.9679951 L14.5654951,21.9679951 L12.6278008,23.9054492 C9.97924328,26.4635116 5.76922852,26.4269278 3.16552538,23.8232246 C0.561822245,21.2195215 0.525238354,17.0095067 3.09700487,14.3470049 L3.09700487,14.3470049 Z M14.3721992,3.09455077 C17.0207567,0.536488354 21.2307715,0.573072245 23.8344746,3.17677538 C26.4381778,5.78047852 26.4747616,9.99049328 23.9029951,12.6529951 L23.9029951,12.6529951 L20.5281393,16.0278509 C19.1435332,17.4129592 17.2255971,18.1284054 15.2721166,17.9885009 C13.3186362,17.8485965 11.5222292,16.8671363 10.3491393,15.2988509 C9.97698175,14.8013193 10.0786175,14.0962969 10.5761491,13.7241393 C11.0736807,13.3519817 11.7787031,13.4536175 12.1508607,13.9511491 C12.9329206,14.9966727 14.1305252,15.6509795 15.4328456,15.7442491 C16.7351659,15.8375187 18.0137899,15.3605546 18.9370049,14.4370049 L18.9370049,14.4370049 L22.2983008,11.0759492 C24.0036757,9.31024424 23.9792865,6.50356773 22.2434844,4.76776564 C20.5076823,3.03196355 17.7010058,3.00757429 15.9469225,4.70156097 L15.9469225,4.70156097 L14.0119225,6.62531097 C13.5713037,7.06336806 12.8589961,7.06129136 12.420939,6.62067253 C11.9828819,6.1800537 11.9849586,5.46774613 12.4255775,5.02968903 L12.4255775,5.02968903 Z" id="path-9"></path>
+    </defs>
+    <g id="Desktop-Sharing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M393.281261,535.243811 C481.431783,535.243811 610.104978,555.060342 658.281261,495.468968 C690.091594,456.121361 658.281261,349.128253 658.281261,296.743811 C658.281261,228.869815 644.292719,69.5928668 569.569584,24.0468728 C499.281,-18.7961295 370.365354,50.031836 299.425446,50.031836 C153.069987,50.031836 102.006045,184.853738 102.006045,316.57365 C102.006045,360.453349 101.420825,463.085249 128.281261,495.468968 C182.051604,560.296049 295.681023,535.243811 393.281261,535.243811 Z" id="Oval" fill="#F9F9F9"></path>
+        <g id="Group-2" transform="translate(21.000000, 56.000000)">
+            <g id="Group-6" transform="translate(0.000000, 199.000000)">
+                <g id="Group" transform="translate(30.000000, 0.000000)">
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <text id="Article-74.-Mistake" font-family="Georgia" font-size="18" font-weight="normal" letter-spacing="-0.00180000016">
+                        <tspan x="9" y="17" fill="#161615"></tspan>
+                        <tspan x="9" y="38" fill="#161615"></tspan>
+                        <tspan x="9" y="59" fill="#161615">Article 74. Mistake with Respect to the Identity of a Contracting Party</tspan>
+                        <tspan x="9" y="80" fill="#161615"></tspan>
+                        <tspan x="9" y="101" fill="#161615">1. Mistake with respect to the identity of a contracting party </tspan>
+                        <tspan x="484.937381" y="101" fill="#1869F2" text-decoration="underline">(section 6.105)</tspan>
+                        <tspan x="602.560772" y="101" fill="#161615"> </tspan>
+                        <tspan x="9" y="122" fill="#161615">is deemed substantial only when the identity of the contracting party itself </tspan>
+                        <tspan x="9" y="143" fill="#161615">or consideration of its personal characteristics is the principal foundation </tspan>
+                        <tspan x="9" y="164" fill="#161615">for making the transaction.</tspan>
+                    </text>
+                    <g id="Group-4" transform="translate(482.000000, 43.000000)">
+                        <rect id="Rectangle" stroke="#979797" fill="#2F2D2D" x="0" y="0" width="183" height="33" rx="4"></rect>
+                        <text id="Go-to-Section" font-family="Georgia" font-size="16" font-weight="normal" letter-spacing="-0.00160000014" fill="#FFFFFF">
+                            <tspan x="16" y="22">Go to Section</tspan>
+                        </text>
+                        <g id="corner-down-left" transform="translate(148.000000, 5.000000)">
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <use id="Combined-Shape" fill="#000000" fill-rule="nonzero" xlink:href="#path-3"></use>
+                            <g id="COLOR/-white" mask="url(#mask-4)" fill="#FFFFFF" fill-rule="evenodd">
+                                <rect id="Rectangle" x="0" y="0" width="21" height="22"></rect>
+                            </g>
+                        </g>
+                        <rect id="Rectangle" stroke="#979797" fill="#D8D8D8" opacity="0.290364583" x="144" y="3" width="29" height="27" rx="2"></rect>
+                    </g>
+                </g>
+                <g id="Group-5">
+                    <circle id="Oval" fill="#5451D4" cx="23.5" cy="23.5" r="23.5"></circle>
+                    <g id="corner-down-left" transform="translate(10.000000, 10.000000)">
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <use id="Combined-Shape" fill="#000000" fill-rule="nonzero" xlink:href="#path-5"></use>
+                        <g id="COLOR/-white" mask="url(#mask-6)" fill="#FFFFFF" fill-rule="evenodd">
+                            <rect id="Rectangle" x="0" y="0" width="27" height="27"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="Group-7" transform="translate(55.000000, 0.000000)">
+                <g id="Group-3" transform="translate(30.000000, 23.000000)">
+                    <g id="Rectangle">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    </g>
+                    <rect id="Rectangle" fill="#FEFA05" opacity="0.57077753" x="36" y="28" width="151" height="16.9208633"></rect>
+                    <text id="(e)-“Criminal-activi" font-family="Georgia" font-size="18" font-weight="normal" letter-spacing="-0.00180000016">
+                        <tspan x="10" y="41.57554" fill="#413F3D">(e) “Criminal activity” means a criminal offense punishable under the laws </tspan>
+                        <tspan x="10" y="62.57554" fill="#413F3D">of this state by death, imprisonment in the state prison, or imprisonment </tspan>
+                        <tspan x="10" y="83.57554" fill="#413F3D">pursuant to subdivision (h) of </tspan>
+                        <tspan x="269.728035" y="83.57554" fill="#1C6BF2">Section 1170</tspan>
+                        <tspan x="372.235468" y="83.57554" fill="#413F3D"> or from a criminal offense </tspan>
+                        <tspan x="10" y="104.57554" fill="#413F3D">committed in another jurisdiction punishable under the laws of that </tspan>
+                        <tspan x="10" y="125.57554" fill="#413F3D">jurisdiction by death or imprisonment for a term exceeding one year.</tspan>
+                    </text>
+                </g>
+                <g id="Group-4" transform="translate(87.000000, 0.000000)">
+                    <rect id="Rectangle" stroke="#979797" fill="#2F2D2D" x="0" y="0" width="183" height="33" rx="4"></rect>
+                    <text id="Create-a-Link" font-family="Georgia" font-size="16" font-weight="normal" letter-spacing="-0.00160000014" fill="#FFFFFF">
+                        <tspan x="16" y="22">Create a Link</tspan>
+                    </text>
+                    <rect id="Rectangle" stroke="#979797" fill="#D8D8D8" opacity="0.290364583" x="147" y="3" width="29" height="27" rx="2"></rect>
+                </g>
+                <g id="Group-5" fill="#5451D4">
+                    <circle id="Oval" cx="23.5" cy="23.5" r="23.5"></circle>
+                </g>
+                <g id="link" transform="translate(10.000000, 10.000000)">
+                    <mask id="mask-10" fill="white">
+                        <use xlink:href="#path-9"></use>
+                    </mask>
+                    <use id="Combined-Shape" fill="#000000" fill-rule="nonzero" xlink:href="#path-9"></use>
+                    <g id="COLOR/-white" mask="url(#mask-10)" fill="#FFFFFF" fill-rule="evenodd">
+                        <rect id="Rectangle" x="0" y="0" width="27" height="27"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <text id="alt" font-family="HelveticaNeue, Helvetica Neue" font-size="16" font-weight="normal" letter-spacing="-0.00160000012" fill="#FFFFFF">
+            <tspan x="316" y="77">alt</tspan>
+        </text>
+    </g>
+</svg>

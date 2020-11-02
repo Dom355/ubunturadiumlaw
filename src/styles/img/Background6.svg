@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1656px" height="843px" viewBox="0 0 1656 843" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Background6</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="87.4815245%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#9230CE" offset="0%"></stop>
+            <stop stop-color="#5451D4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(0.000000, -2959.000000)" fill="url(#linearGradient-1)">
+            <g id="Background6" transform="translate(-1.000000, 2959.000000)">
+                <rect id="Rectangle" x="0" y="0" width="1657" height="843"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1656px" height="859px" viewBox="0 0 1656 859" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>Background2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-2.22044605e-14%" y1="50%" x2="65.9971495%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#F1F1F1" offset="0%"></stop>
+            <stop stop-color="#F9F9F9" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(0.000000, -843.000000)">
+            <g id="Background2" transform="translate(0.000000, 843.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="1656" height="843"></rect>
+                <path d="M1250.94683,-67.0732328 C1268.47563,-54.8574948 1292.86195,-37.8521671 1324.10579,-16.0572495 C1359.4047,8.56638769 1394.2422,72.8798506 1428.61829,176.883139 L1480.36829,1034 L721,1034 L973.092287,74.0711635 C995.5124,23.0806646 1023.07753,-16.6264944 1055.78769,-45.0503133 C1087.55117,-72.6515166 1147.77624,-81.7914727 1236.46289,-72.4701816 L1236.46289,-72.4701829 C1241.66912,-71.9229901 1246.65198,-70.0662939 1250.94683,-67.0732328 Z" id="Polygon" fill="url(#linearGradient-1)" transform="translate(1100.684144, 479.000000) scale(-1, 1) rotate(90.000000) translate(-1100.684144, -479.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

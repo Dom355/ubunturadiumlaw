@@ -1,0 +1,44 @@
+.maintitle {
+    align-items: center;
+    text-align: center;
+    margin: 5em 0;
+}
+
+
+.title {
+    font-family: Big Caslon;
+    font-style: bold;
+}
+
+.subtitle {
+    font-family: Optima;
+}
+
+.parag {
+    font-family: Optima;
+    font-size: 16px;
+    color: #5A5858;
+    margin-top: 15px;
+}
+
+.button {
+    font-family: Optima;
+    border-radius: 8px;
+    color: white;
+    padding: 8px 20px;
+    background: rgb(2, 0, 36)linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(146, 48, 206, 1) 0%, rgba(84, 81, 212, 1) 100%);
+}
+
+.icon {
+    color: #4821EA;
+
+    padding-right: 10px;
+
+}
+
+.videodemo {
+    width: 70%;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}

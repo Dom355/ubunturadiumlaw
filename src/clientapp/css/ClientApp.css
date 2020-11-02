@@ -1,0 +1,37 @@
+.algoliaSearchBar {
+    z-Index: 10;
+    position: absolute;
+    left: 25vw
+}
+
+.searchOverlay {
+    position: "absolute";
+    text-align: "justify";
+    margin-top: "20px",
+}
+
+.instructions {
+    text-align: center;
+    text-align: left;
+    border: 0.2px solid black;
+    box-shadow: 1px 1px 1px black;
+    max-width: 550px;
+    font-size: 12px;
+    padding: 15px;
+    border-radius: 5px;
+    position: absolute;
+    margin-left: 30vw
+}
+
+.icon_instructions {
+    margin-top: -2px;
+    margin-right: 10px;
+    width: 20px;
+}
+
+@media only screen and (max-width: 400px) {
+    .instructions {
+        position: relative;
+        margin-left: 0px;
+    }
+}
