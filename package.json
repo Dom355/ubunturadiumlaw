@@ -58,8 +58,12 @@
 	},
 	"eslintConfig": {
 		"extends": [
-			"react-app"
-		]
+			"react-app",
+                        "plugin:flowtype/recommended"
+		],
+                "plugins":[
+                        "flowtype"
+                ]
 	},
 	"browserslist": {
 		"production": [

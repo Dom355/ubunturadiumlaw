@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 const mongo = require("mongodb");
 
-const insertedLaw = require("./AllCodes_CA.json");
+// const insertedLaw = require("./AllCodes_CA.json");
 
 const Law = mongoose.model(
   "Laws",
